@@ -1,6 +1,7 @@
 # minecraft_autowalk
 a tiny tool to auto walk in mine craft
 
+
 目前只能适用于Win10系统 
 
 使用方法：
@@ -18,3 +19,6 @@ pip3 install pynput mouse
 
 
 3、把仓库里的autowalk.py下载到本地，调节游戏画面走到合适的封闭位置之后按esc使游戏进入菜单模式，然后双击autowalk.py，双击之后及时在游戏界面点击Back to Game，大概15秒后开始自动行走。
+
+##  乞讨地址 0xf4f4c136def09530A0740785a00050Bcb756631e 
+如果对你有帮助，请不要吝啬你的LOV/豆/people WHATEVER... :-)
