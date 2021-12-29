@@ -16,7 +16,6 @@ pip3 install pynput mouse
 ```
 然后回车等待结束
 
-W
 3、把仓库里的autowalk.py下载到本地，调节游戏画面走到合适的封闭位置之后按esc使游戏进入菜单模式，然后双击autowalk.py，双击(如果让你选择使用什么程序打开，选择Python即可）及时在游戏界面点击Back to Game，大概15秒后开始自动行走。
 
 ##  乞讨地址 
