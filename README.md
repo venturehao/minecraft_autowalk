@@ -10,9 +10,10 @@ a tiny tool to auto walk in mine craft
 
 
 2、打开cmd窗口，输入
-···
+```
 pip3 install pynput mouse 
-···
+```
+
 然后回车等待结束
 
 
