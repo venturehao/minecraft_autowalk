@@ -4,6 +4,8 @@ a tiny tool to auto walk in mine craft
 目前只能适用于Win10系统 
 
 使用方法：
+
+
 1、下载python安装包进行安装（目前测试过3.9和3.10），注意安装时选择Customized Install并勾选Add python path to environment
 
 
