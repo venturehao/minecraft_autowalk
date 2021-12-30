@@ -5,7 +5,7 @@ a tiny tool to auto walk in mine craft
 可适用于Win10系统 和 MacOS （仅测试了M1机型）
 
 ## Mac OS使用方法：
-1、安装了python3
+1、安装python3（方法自寻）
 
 
 2、打开终端，运行:
