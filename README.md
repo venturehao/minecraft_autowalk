@@ -28,7 +28,7 @@ pip3 install pynput mouse
 然后回车等待结束
 
 
-3、和MacOS相同
+3、和MacOS的步骤3相同
 
 ##  乞讨地址 
 ### 0xf4f4c136def09530A0740785a00050Bcb756631e 
